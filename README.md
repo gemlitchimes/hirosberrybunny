@@ -13,7 +13,7 @@ Khoác áo "bánh dâu sữa" cho trang chat của Google AI Studio (https://ais
 
 ## Cài đặt (Chrome, Edge, Brave, Arc, Opera)
 
-1. Bấm nút `< > Code` màu xanh rồi chọn `Download ZIP` để tải file về. Giải nén file `.zip` ra một thư mục.
+1. Bấm nút `< > Code` màu xanh rồi chọn `Download ZIP` để tải file về.
 2. Mở `chrome://extensions`.
 3. Bật **Developer mode / Chế độ nhà phát triển** ở góc trên bên phải.
 4. Kéo thả file `.zip` vào, hoặc giải nén rồi bấm **Load unpacked** và chọn thư mục vừa giải nén.
